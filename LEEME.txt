@@ -1,0 +1,19 @@
+EL PLAN DE SAN LUIS - Prototipo Godot 4.x
+
+1. Descomprime el ZIP en una carpeta nueva.
+2. Abre Godot > Administrador de proyectos > Importar.
+3. Selecciona el archivo project.godot de esta carpeta.
+4. Abre el proyecto y pulsa F5 para jugar.
+
+CONTROLES:
+Flechas izquierda/derecha: mover
+W: saltar
+D: atacar (pulsa varias veces para encadenar 3 golpes)
+R: reiniciar
+
+NOTAS:
+- Incluye la animación Idle v1.3 aprobada, escenario provisional y un guardia de prueba.
+- Run, Jump, Attack, Hurt y Death aún NO tienen sprites finales: durante esos movimientos se ve Idle.
+- El guardia es una figura temporal dibujada por código.
+- Los PNG fueron procesados para transparencia y requieren inspección visual de bordes.
+- No sobrescribas tu proyecto anterior: esta es una copia independiente.
